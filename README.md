@@ -4,6 +4,13 @@ This repository includes a complete PLC automation project developed in **TIA Po
 
 ---
 
+## Video Demonstration
+
+**Watch the full system in action on YouTube:**  
+[![Watch Video](https://img.youtube.com/vi/Ng9H5OHbHHk/0.jpg)](https://youtu.be/Ng9H5OHbHHk)
+
+---
+
 ## Project Overview
 
 - Automate the process of vehicle washing (entry, washing, drying, exit).
