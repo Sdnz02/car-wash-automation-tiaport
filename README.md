@@ -43,12 +43,6 @@ This repository includes a complete PLC automation project developed in **TIA Po
 
 ---
 
-## Screenshots
-
-> Include `PLC_Sim.png` here showing ladder logic or functional sequence.
-
----
-
 ## How to Use
 
 1. Open **TIA Portal** (version 15 or higher).
